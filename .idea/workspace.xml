@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51359607-0906-4d54-9680-d2559ea5f7b0" name="Changes" comment="test commit" />
+    <list default="true" id="51359607-0906-4d54-9680-d2559ea5f7b0" name="Changes" comment="new change">
+      <change beforePath="$PROJECT_DIR$/PythonNotes/ForLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonNotes/ForLoop.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -45,7 +52,7 @@
   "keyToString": {
     "Python.ForLoop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "mahesh-branch"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -72,11 +79,29 @@
       <option name="project" value="LOCAL" />
       <updated>1761125538194</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="simpl code merge">
+      <option name="closed" value="true" />
+      <created>1761126248669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761126248669</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new change">
+      <option name="closed" value="true" />
+      <created>1761126333474</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761126333474</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+    <MESSAGE value="simpl code merge" />
+    <MESSAGE value="new change" />
+    <option name="LAST_COMMIT_MESSAGE" value="new change" />
   </component>
 </project>
