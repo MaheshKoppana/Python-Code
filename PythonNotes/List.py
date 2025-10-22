@@ -8,3 +8,4 @@ for i in range(n):
         ans = ans+1
 print(ans)
 print(ans)
+print(ans)
