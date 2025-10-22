@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="51359607-0906-4d54-9680-d2559ea5f7b0" name="Changes" comment="Updated print">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonNotes/List.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonNotes/List.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
   "keyToString": {
     "Python.ForLoop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Jagdeep-branch"
+    "git-widget-placeholder": "mahesh-branch"
   }
 }]]></component>
   <component name="SharedIndexes">

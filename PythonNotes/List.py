@@ -7,4 +7,5 @@ for i in range(n):
     if i%3 == 0:
         ans = ans+1
 print(ans)
+print(ans)
 
